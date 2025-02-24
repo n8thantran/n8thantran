@@ -1,7 +1,6 @@
 # nathan tran
 - computer science @ san jose state university
 - 3 years of python/java development
-- focus on automation and practical solutions
 
 ### projects
 - dreamscapes - voice to live 3d asset generation in unity
