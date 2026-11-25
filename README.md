@@ -1,5 +1,5 @@
 # nathan tran
 
-studying cs @ san jose state university; on leave to work @ AfterQuery
+studying cs @ san jose state university
 
 https://n8than.me
